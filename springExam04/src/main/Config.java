@@ -10,4 +10,6 @@ public class Config {
 		
 	int num = 10;
 	
+	int ber = 10;
+	
 }
