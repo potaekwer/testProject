@@ -20,6 +20,9 @@ public class MessageApp {
 	@Test
 	public void messageCheck(){
 		bean.sayHello();
+		
+		
+		System.out.println("머가먼지 모르겠어");
 	}
 
 	
