@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 GitRepositoriesView.GitDirectories=C\:\\Users\\kosta\\git\\testProject\\.git;
 GitRepositoriesView.GitDirectories.relative=C\:\\Users\\kosta\\git\\testProject\\.git;
+=======
+GitRepositoriesView.GitDirectories=C\:\\Users\\kosta\\Desktop\\testProject\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;
+>>>>>>> branch 'master' of https://github.com/potaekwer/testProject.git
 eclipse.preferences.version=1

@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 activeuserprofiles=DESKTOP-43O1877;Team
 eclipse.preferences.version=1
 org.eclipse.rse.systemtype.local.systemType.defaultUserId=kosta
 useridperkey=DESKTOP-43O1877.Local\=kosta;
+=======
+activeuserprofiles=DESKTOP-43O1877;Team
+eclipse.preferences.version=1
+org.eclipse.rse.systemtype.local.systemType.defaultUserId=kosta
+>>>>>>> branch 'master' of https://github.com/potaekwer/testProject.git

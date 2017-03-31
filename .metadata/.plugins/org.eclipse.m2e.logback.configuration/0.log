@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2017-03-29 14:39:04,781 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
 2017-03-29 14:39:05,219 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/2.5/maven-clean-plugin-2.5.jar
 2017-03-29 14:39:05,860 [Worker-21] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.6/maven-resources-plugin-2.6.jar
@@ -1610,3 +1611,47 @@
 2017-03-31 15:00:02,325 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\main\resources
 2017-03-31 15:00:02,325 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-31 15:00:02,341 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\test\resources
+=======
+2017-03-31 16:02:23,508 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringExam:SpringExam:0.0.1-SNAPSHOT @ C:\Users\kosta\Desktop\testProject\Spring\SpringExam\pom.xml.
+2017-03-31 16:02:23,508 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringExam:SpringExam:0.0.1-SNAPSHOT @ C:\Users\kosta\Desktop\testProject\Spring\SpringExam\pom.xml.
+2017-03-31 16:02:26,714 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:26,720 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\SpringExam\src\main\resources
+2017-03-31 16:02:26,749 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:26,756 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\SpringExam\src\test\resources
+2017-03-31 16:02:27,417 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpringExam:SpringExam:0.0.1-SNAPSHOT @ C:\Users\kosta\Desktop\testProject\Spring\SpringExam\pom.xml.
+2017-03-31 16:02:28,487 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springExam02:springExam02:0.0.1-SNAPSHOT @ C:\Users\kosta\Desktop\testProject\Spring\springExam02\pom.xml.
+2017-03-31 16:02:28,631 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:28,640 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\SpringExam\src\main\resources
+2017-03-31 16:02:28,642 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:28,656 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\SpringExam\src\test\resources
+2017-03-31 16:02:28,728 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springExam03:springExam03:0.0.1-SNAPSHOT @ C:\Users\kosta\Desktop\testProject\Spring\springExam03\pom.xml.
+2017-03-31 16:02:28,844 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: springExam04:springExam04:0.0.1-SNAPSHOT @ C:\Users\kosta\Desktop\testProject\Spring\springExam04\pom.xml.
+2017-03-31 16:02:35,209 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:35,215 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\SpringExam\src\main\resources
+2017-03-31 16:02:35,222 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:35,228 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\SpringExam\src\test\resources
+2017-03-31 16:02:35,359 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:35,365 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam02\src\main\resources
+2017-03-31 16:02:35,371 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:35,376 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam02\src\test\resources
+2017-03-31 16:02:35,580 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:35,586 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam03\src\main\resources
+2017-03-31 16:02:35,591 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:35,597 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam03\src\test\resources
+2017-03-31 16:02:36,008 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:36,018 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam04\src\main\resources
+2017-03-31 16:02:36,024 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:36,030 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam04\src\test\resources
+2017-03-31 16:02:37,128 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:37,133 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam02\src\main\resources
+2017-03-31 16:02:37,138 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:37,147 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam02\src\test\resources
+2017-03-31 16:02:37,156 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:37,162 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam03\src\main\resources
+2017-03-31 16:02:37,168 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:37,171 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam03\src\test\resources
+2017-03-31 16:02:37,178 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:37,182 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam04\src\main\resources
+2017-03-31 16:02:37,189 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 16:02:37,194 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\springExam04\src\test\resources
+>>>>>>> branch 'master' of https://github.com/potaekwer/testProject.git
