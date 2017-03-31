@@ -20,5 +20,6 @@ public class MusicTest {
 		assertNotNull(player);
 		player.play();
 	}
+	
 
 }
