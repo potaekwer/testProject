@@ -9,5 +9,6 @@ import org.springframework.context.annotation.Configuration;
 public class Config {
 		
 	int num = 10;
+	String str = "hj";
 	
 }
