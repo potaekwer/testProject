@@ -1598,3 +1598,15 @@
 2017-03-30 17:36:44,649 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\Spring\springExam02\src\main\resources
 2017-03-30 17:36:44,650 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2017-03-30 17:36:44,658 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\Spring\springExam02\src\test\resources
+2017-03-31 14:55:49,702 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 14:55:49,718 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\main\resources
+2017-03-31 14:55:49,718 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 14:55:49,733 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\test\resources
+2017-03-31 14:56:51,353 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 14:56:51,384 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\main\resources
+2017-03-31 14:56:51,384 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 14:56:51,400 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\test\resources
+2017-03-31 15:00:02,310 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 15:00:02,325 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\main\resources
+2017-03-31 15:00:02,325 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-03-31 15:00:02,341 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\kosta\Desktop\testProject\Spring\helloSpriing\src\test\resources
