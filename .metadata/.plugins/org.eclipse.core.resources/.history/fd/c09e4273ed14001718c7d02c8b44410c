@@ -1,0 +1,14 @@
+package service.Logic;
+
+import store.CustomerStore;
+
+public class CustomerServiceLogic {
+
+	private CustomerStore store;
+	
+//	생성자를 통한 DI
+	public CustomerServiceLogic(CustomerStore store){
+		this.store = store;
+	}
+	
+}

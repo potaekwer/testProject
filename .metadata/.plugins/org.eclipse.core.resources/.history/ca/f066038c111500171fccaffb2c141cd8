@@ -1,0 +1,24 @@
+package main;
+
+public class MessageBeanKor implements MessageBean{
+
+	private String name;
+	private String greeting;
+	
+	private Outputter outputter;
+	
+	public MessageBeanKor(String name) {
+		this.name = name;
+	}
+	
+	public void setGreeting(String greeting){
+		this.greeting = greeting;
+	}
+	@Override
+	public void sayHello() {
+		
+		
+		
+	}
+
+}

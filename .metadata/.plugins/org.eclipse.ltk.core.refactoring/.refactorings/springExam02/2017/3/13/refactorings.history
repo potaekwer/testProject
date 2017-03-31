@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;music.Music&apos; to &apos;Player&apos;&#x0D;&#x0A;- Original project: &apos;springExam02&apos;&#x0D;&#x0A;- Original element: &apos;music.Music&apos;&#x0D;&#x0A;- Renamed element: &apos;music.Player&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Music&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;music{Music.java[Music" matchStrategy="1" name="Player" qualified="false" references="true" similarDeclarations="false" stamp="1490841861957" textual="false" version="1.0"/>
+</session>

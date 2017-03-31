@@ -1,0 +1,12 @@
+package main;
+
+
+
+
+
+public class MessageApp {
+
+	public static void main(String[] args) {
+		
+	}
+}

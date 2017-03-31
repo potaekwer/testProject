@@ -1,0 +1,26 @@
+package main;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.context.ContextConfiguration;
+
+
+
+@ContextConfiguration(classes=Config.class)
+
+
+
+
+
+public class MessageApp {
+	
+	@Autowired
+	private MessageBean bean;
+
+	public static void main(String[] args) {
+		
+		
+	
+		
+		
+	}
+}

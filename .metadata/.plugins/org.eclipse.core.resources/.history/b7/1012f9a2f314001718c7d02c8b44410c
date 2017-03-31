@@ -1,0 +1,9 @@
+package music;
+
+import javax.swing.Spring;
+
+import org.junit.runner.RunWith;
+
+public class MusicTest {
+
+}

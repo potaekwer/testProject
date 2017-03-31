@@ -1,0 +1,5 @@
+package store.Logic;
+
+public class CustomerStoreLogic {
+
+}

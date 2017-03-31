@@ -1,0 +1,5 @@
+package service.Logic;
+
+public class CustomerServiceLogic {
+
+}

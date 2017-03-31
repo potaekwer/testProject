@@ -1,0 +1,16 @@
+package service;
+
+
+import java.awt.print.Pageable;
+import java.util.List;
+
+import domain.Customer;
+
+public interface CustomerService {
+
+	Customer findOne(String id);
+	
+	List<Customer> findAll();
+	List<Customer> findAll(Pageable page);
+	
+}

@@ -1,0 +1,12 @@
+package music;
+
+import javax.swing.Spring;
+import org.junit.runner.RunWith;
+import org.springframework.test.context.ContextConfiguration;
+
+@ContextConfiguration(classes=Config.class)
+@RunWith(Spring.Junit4ClassRunner.class)
+
+public class MusicTest {
+
+}

@@ -1,0 +1,16 @@
+package main;
+
+import org.springframework.test.context.ContextConfiguration;
+
+
+
+@ContextConfiguration(classes=Config.class)
+
+public class MessageApp {
+
+	public static void main(String[] args) {
+		
+		
+		
+	}
+}

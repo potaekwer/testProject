@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MessageBean.java&apos; to &apos;springExam03/src/main&apos;&#x0D;&#x0A;- Original project: &apos;springExam04&apos;&#x0D;&#x0A;- Destination element: &apos;springExam03/src/main&apos;&#x0D;&#x0A;- Original element: &apos;main.MessageBean.java&apos;" description="Copy compilation unit" destination="=springExam03/src&lt;main" element1="/src&lt;main{MessageBean.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1490856303913" units="1" version="1.0"/>
+</session>

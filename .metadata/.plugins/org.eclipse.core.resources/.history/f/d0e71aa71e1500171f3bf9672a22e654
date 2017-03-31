@@ -1,0 +1,24 @@
+package main;
+
+
+import org.junit.Test;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.context.ContextConfiguration;
+
+
+
+@ContextConfiguration(classes=Config.class)
+
+public class MessageApp {
+	
+	@Autowired
+	private MessageBean bean;
+	
+	@Test
+	public void messageCheck(){
+		
+		bean.sayHello();
+	}
+
+	
+}

@@ -1,0 +1,18 @@
+package main;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+import org.springframework.test.context.ContextConfiguration;
+
+import music.Config;
+
+
+
+@ContextConfiguration(classes=Config.class)
+
+public class MessageApp {
+
+	public static void main(String[] args) {
+		
+	}
+}
